@@ -1,0 +1,35 @@
+.heroarea{
+    width: 100%;
+    height: 650px;
+    background-image: url("./img/sailboat.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h4{
+    font-size: 22px;
+}
+.tablecolmn{
+    height: 50px;
+    width: 100%;
+    background-color: black;
+}
+.colm1{
+    width:100%;
+    height:30px;
+    border:3 px solid black;
+}
+.tablecolmn1{
+    height: 50px;
+    width: 100%;
+    background-color: gainsboro;
+}
+.tablecolmnP{
+    height: 50px;
+    width: 100%;
+    background-color: gray;
+}
+.ctnct hr{
+    width: 35%;
+    
+}
